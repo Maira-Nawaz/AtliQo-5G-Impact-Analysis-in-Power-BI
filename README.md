@@ -2,6 +2,11 @@
 
 *Codebasics Resume Challenge #3*
 
+## Links
+
+- **Live Dashboard**: [View Here](https://captainviz.com/developer/685cf892bd09e3970b1f1a3a)
+- **Challenge Source**: [View Here](https://codebasics.io/challenge/codebasics-resume-project-challenge/)
+
 ## Problem Statement
 
 **AtliQo**, one of India’s leading telecom companies, launched its **5G services** in **May 2022** alongside its competitors. However, the management observed an unexpected decline in two critical KPIs:
@@ -19,6 +24,22 @@ This raised major concerns, especially with their expansion plans in mind. The *
 **Peter Pandey**, a junior data analyst, was assigned to take the lead on this task.
 
 ---
+
+
+## Data Model
+
+![Data Model](https://github.com/Maira-Nawaz/AtliQo-5G-Impact-Analysis-in-Power-BI/blob/main/resources/Data%20Model.png)
+
+---
+
+## Dashboard Preview
+
+![Dashboard](https://github.com/Maira-Nawaz/AtliQo-5G-Impact-Analysis-in-Power-BI/blob/main/resources/Performance.png)
+
+
+![Dashboard](https://github.com/Maira-Nawaz/AtliQo-5G-Impact-Analysis-in-Power-BI/blob/main/resources/Insights.png)
+
+
 
 ## Objectives
 
@@ -60,3 +81,9 @@ This raised major concerns, especially with their expansion plans in mind. The *
 * How to present data using **pre vs post-event comparison dashboards**
 * Deepened understanding of **churn analysis** and **customer retention metrics**
 * Applied storytelling with Power BI visuals to support **business decisions**
+
+  ##  Author
+
+**Maira Nawaz**
+
+[LinkedIn](https://www.linkedin.com/in/mairanawaz/) | [Kaggle](https://www.kaggle.com/mairanawaz) | [Github](https://github.com/Maira-Nawaz)
